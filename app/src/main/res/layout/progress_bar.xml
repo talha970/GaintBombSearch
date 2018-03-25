@@ -1,0 +1,15 @@
+<RelativeLayout android:layout_height="match_parent"
+
+    xmlns:android="http://schemas.android.com/apk/res/android"  android:layout_width="match_parent">
+<com.airbnb.lottie.LottieAnimationView android:id="@+id/loading_view"
+    android:layout_width="100dp"
+    android:layout_height="100dp"
+    android:layout_centerInParent="true"
+    app:lottie_fileName="loading_rainbow.json"
+    android:visibility="visible"
+    app:lottie_loop="true"
+    app:lottie_autoPlay="true"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" />
+</RelativeLayout>
+

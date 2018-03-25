@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Giant Bomb</string>
+    <string name="API_KEY">0f58062a43eabca4b353efe78e75211a69fb4ff6</string>
+    <string name="BASE_URL">https://www.giantbomb.com/</string>
+    <string name="SearchText">Search GiantBomb</string>
+    <string name="no_network">Oops Network Error</string>
+    <string name="no_results">No Results</string>
+    <string name="intro_text">Search Away</string>
+</resources>
