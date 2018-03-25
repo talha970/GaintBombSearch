@@ -19,7 +19,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:background="@color/colorPrimary"
-            app:contentScrim="@color/cardview_dark_background"
+            app:contentScrim="@color/colorPrimary"
             app:expandedTitleGravity="bottom|center_horizontal"
             app:expandedTitleTextAppearance="@style/TextAppearance.AppCompat.Headline"
             app:layout_scrollFlags="exitUntilCollapsed|scroll"
@@ -30,7 +30,6 @@
                 android:id="@+id/bar"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent">
-
                 <include layout="@layout/search_bar" />
             </LinearLayout>
 
